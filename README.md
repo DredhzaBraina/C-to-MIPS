@@ -1,4 +1,4 @@
-# C-to_MIPS
+# C-to-MIPS
 
 C++ CODE:
 
